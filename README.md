@@ -1,1 +1,2 @@
 # EWU-CSCD371-2019-Fall
+This course introduces .NET Programming and the .NET framework. Emphasis will be placed on understanding the syntactical features of the language and how to effectively use the design of the language in conjunction with the .NET Framework. Topics include .NET fundamentals, .NET assemblies, language fundamentals, object oriented design and programming, delegates and events, threading, serialization, database connectivity, windows and dialogs, and GUI components.
